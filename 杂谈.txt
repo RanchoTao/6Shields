@@ -1,0 +1,19 @@
+清华交叉信息院硕士
+CFA
+CPA
+ACCA
+全国计算机等级考试
+全国大学英语六级考试
+
+一些 CSer 效率工具介绍，例如 IDE, 翻墙, StackOverflow, Git, GitHub, Vim, LaTeX, GNU Make, Docker, 工作流
+
+ChatGPT 出思路
+感谢Deepseek出内容
+感谢PaperMaster 降AI
+感谢 Deepl 翻译
+感谢 Grammarly语法校对
+感谢Quillbot润色
+感谢Paperdigest文献综述生成
+感谢Otter.ai实时翻译
+
+C/C++/Java/JS/Python/Go/Rust 等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有涉猎
