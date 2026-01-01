@@ -1,0 +1,7 @@
+requests.request()
+requests.get()
+requests.head()
+requests.post()
+requests.put()
+requests.patch()
+requests.delete()

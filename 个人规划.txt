@@ -1,0 +1,338 @@
+        ACM-ICPC国际大学生程序设计竞赛
+        ​ACM-ICPC中国大学生程序设计竞赛
+        全国大学生数学建模竞赛
+        中国高校计算机大赛
+        蓝桥杯全国软件和信息技术专业人才大赛
+        全国大学生信息安全竞赛
+        
+        重点推荐
+        全国大学生电子设计竞赛
+        全国大学生智能汽车竞赛
+      “西门子杯”中国智能制造挑战赛
+        中国机器人及人工智能大赛
+        ​睿抗机器人开发者大赛(RAICOM)​
+        ICAN大学生创新创业大赛
+      “博创杯”全国大学生嵌入式人工智能设计大赛
+        
+        拓展推荐
+        中国国际大学生创新大赛（原互联网+）
+      “挑战杯”系列竞赛
+        百度之星·程序设计大赛
+        ​全球校园人工智能算法精英大赛
+      ​​“泰迪杯”全国数据挖掘挑战赛
+        中国研究生数学建模竞赛（这是研究生竞赛，但可以作为了解，展现你的学术潜力）
+
+考试
+    英语
+        全国大学英语六级考试
+        TOEFL
+        ILETS
+    汉语
+        国家普通话水平测试
+
+    书籍
+        计算机基础课（DS、CO、CSAPP、算法导论）
+        金枝
+        电力系统分析
+        自动控制原理
+        标准日本语初级上
+        标准日本语初级下
+        让数字说话
+        办公厅工作常见的116个问题与140个失误事例
+        公司理财
+        公司理财习题集
+        吉米多维奇数学分析习题集1-6
+        linear Algebra Done Right
+        高等微积分教程上
+        概率论与数理统计（第2版）
+        概率论与数理统计学习指导
+        星火英语24年十合一六级
+        肖秀荣考研政治合集
+        数学天书中的证明
+        线性代数入门
+        线性代数（理工类）
+        金榜时代考研数学合集
+        工程数学复变函数
+        工程数学积分变换
+        Cambridge English for Engineering
+        电路
+        电路学习指导与习题分析
+        普通物理教程
+        普通物理实验
+        计算机组成原理
+        信息论基础
+        深入理解计算机系统
+        电子技术基础模拟部分
+        电子技术基础数字部分
+        数学手册
+        大模型技术发展及治理实践报告
+        小狗钱钱
+        算法竞赛入门经典算法实现
+        世界大学生程序设计竞赛高级教程程序设计中常用的计算思维方式
+        穷查理宝典
+        马克思主义基本原理
+        指数基金投资指南
+        富爸爸穷爸爸
+        炒股的智慧
+        小岛经济学
+        量化交易：如何建立自己的算法交易事业
+        量化交易之路 用Python做股票量化分析
+        量化交易：算法、分析、数据、模型和优化
+        绝对自控Ego Is the Enemy
+        大话设计模式
+        算法导论
+
+    Github
+        个人项目（用RSSHub追踪关键仓库（如PyTorch/DeepSeek），放弃非核心项目）
+            Quant（个人量化交易模型）
+            A-Guide-to-Life（人生指南）
+            THUCS912（备考清华大学计算机研究生资料）
+            crawlers（爬虫模板）
+            General-Solutions（通用解决方法）
+            Wonder-of-Takeout（美团、饿了么、京东优惠卷性价比最高算法）
+            automated-social-email（高效学术社交邮件沟通方法）
+            My-political-views（个人政见）
+            Large-Model-Security-Offense-and-Defense-Two-Way-Competition（比赛过程记录）
+            Singularity（计算AI奇点的时间）
+            AutomaticallyAdaptToTheEnvironment（环境参数自适应，帮助人工智能模型更快适应现实世界）
+            ValorantMasterBot（Valorant自动玩家）
+            DeltaForceMasterBot（DeltaForce自动玩家）
+            CounterStrikeMasterBot（CS2自动玩家）
+            DECOY（个人设计人形机器人）
+            BLOCK（屏蔽一切用户不想见到的事物）
+            Prophets（通过马尔科夫链对短期未来的预测模型）
+            semantic-space（语义空间）
+            tickets（抢票脚本）
+        关注项目（Stars)
+            MLEveryday / practicalAI-cn（AI学习路径）
+            Internet-Architecture-and-Security / PacketScope（清华直博学长的团队项目）
+            shiyu-coder / Kronos（金融市场模型）
+            tuna / thuthesis（TUNA）
+            fuwutu / CodeForces
+            51bitquant / bitquant（crypto量化交易）
+            AdvancingStone / stock-learning（证券交易学习）
+            HanHerbert / THU-912（清华912备考资料）
+            xUhEngwAng / 912-notes（清华912备考资料）
+            Wsky51 / THU-CS912-kaoyan（清华912备考资料）
+            AngelKitty / review_the_national_post-graduate_entrance_examination（清华912备考资料）
+            stellarkey / 912_project（清华912备考资料）
+            jaywcjlove / reference（开发人员备忘清单）
+            PKU-YuanGroup / ChatLaw（北京大学的中文法律大模型）
+            MakiNaruto / Automatic_ticket_purchase（抢票脚本）
+            jrothschild33 / learn_backtrader（量化投资与机器学习）
+            mementum / backtrader（交易策略）
+            facebook / react-native
+            WangRongsheng / awesome-LLM-resources
+            ultralytics / ultralytics（YOLO）
+            ScottSloan / Bili23-Downloader（视频下载工具）
+            JoeanAmier / TikTokDownloader（Tiktok下载工具）
+            tw93 / Pake（桌面轻量应用）
+            YunaiV / ruoyi-vue-pro（后台管理系统）
+            ccfos / nightingale
+            maotoumao / MusicFree（免费无广告音乐播放器）
+            iDvel / rime-ice（拼音输入法）
+            itwanger / LearnCS-ByYourself（CS自学指南）
+            walter201230 / Python（Python教程）
+            jackfrued / Python-100-Days（Python教程）
+            carla-simulator / carla（自动驾驶）
+            gptchinese / chatgpt-freecn（GPT使用指南）
+            Xilinx / RapidWright（FPGA）
+            DigilentInc / vivado-library（FPGA）
+            Digilent / vivado-boards（FPGA）
+            eugene-tarassov / vivado-risc-v（FPGA）
+            xiaolincoder / CS-Base（CS学习）
+            r-ex / rsx
+            ahujasid / blender-mcp
+            ekknod / pcileech-wifi
+            JOKOSAHS / DMA-Pcileech
+            JPShag / PCILeech-DMA-Firmware
+            VoltCyclone / PCILeechFWGenerator
+            liuzw20 / GAVE
+            jlevy / the-art-of-command-line
+            ryanhanwu / How-To-Ask-Questions-The-Smart-Way
+            tangx / Stop-Ask-Questions-The-Stupid-Ways
+            itwanger / toBeBetterJavaer（Java学习指南）
+            Z-Siqi / Clash-for-Windows_Chinese（Clash汉化）
+            forthespada / CS-Books（CS学习）
+            ruanyf / weekly（科技爱好者周刊）
+            pytorch / pytorch
+            hiroi-sora / Umi-OCR（免费OCR）
+            OI-wiki / OI-wiki（ICPC Wiki）
+            timqian / chinese-independent-blogs（中文独立博客列表）
+            EndlessCheng / codeforces-go（灵茶山艾府的算法竞赛模板库）
+            Evil0ctal / Douyin_TikTok_Download_API
+            zhayujie / chatgpt-on-wechat（聊天机器人）
+            YSGStudyHards / DotNetGuide（C#/.NET/.NET Core学习）
+            crmeb / crmeb_java
+            Alvin9999 / new-pac
+            krahets / hello-algo（动画图解算法）
+            tangly1024 / NotionNext（使用 NextJS + Notion API 实现，支持多种部署方案的静态博客）
+            lss233 / kirara-ai（聊天机器人）
+            openai / gpt-oss
+            ollama / ollama
+            PlexPt / awesome-chatgpt-prompts-zh（GPT对话方法）
+            d2l-ai / d2l-zh（深度学习）
+            halo-dev / halo（建站工具）
+            521xueweihan / GitHub520（Github优化）
+            Anduin2017 / HowToCook（菜谱）
+            codecrafters-io / build-your-own-x
+            justjavac / free-programming-books-zh_CN（CS学习）
+            paperswithcode / ai-deadlines（AI会议时间）
+            Barca0412 / Introduction-to-Quantitative-Finance（量化交易学习）
+            sjtug / SJTUThesis（上海交通大学LaTeX模板）
+            apache / flink
+            apache / paimon
+            CHYbeta / Web-Security-Learning（网络安全学习）
+            DeepGraphLearning / RecommenderSystems
+            sweetice / Deep-reinforcement-learning-with-pytorch
+            duburcqa / jiminy
+            lilianweng / stock-rnn
+            openai / baselines
+            openai / gym
+            biliticket / transition-ticket
+            SuxueCode / WechatBakTool（基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录）
+            Echocipher / AUTO-EARN（一个利用OneForAll进行子域收集ShodanAPI端口扫描Xray漏洞FuzzServer的自动化漏洞扫描，即时通知提醒的漏洞挖掘辅助工具）
+            insightglacier / Dictionary-Of-Pentesting（渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目）
+            zhengjim / Chinese-Security-RSS（网络安全、信息安全资讯的RSS订阅，网络安全、信息安全博客的RSS订阅，网络安全、信息安全公众号的RSS订阅）
+            xdit-project / xDiT
+            TKazer / CS2_External
+            RootKit-Org / AI-Aimbot
+            ufrisk / pcileech
+            ufrisk / pcileech-fpga
+            MaJerle / stm32-usart-uart-dma-rx-tx
+            carmaa / inception
+            open-sdr / openwifi
+            Rakeshmonkee / DMA
+            NiaLark / PCILEECH-DMA-FW---3.0-
+            ryo-ma / github-profile-trophy
+            anuraghazra / github-readme-stats
+            zhaoxin94 / awesome-domain-adaptation
+            GitHubDaily / GitHubDaily
+            521xueweihan / HelloGitHub
+            gaoxiang12 / slambook2
+            CarGuo / gsy_github_app_flutter
+            Tencent / weui-wxss
+            techtanic / educative.io_courses
+            lib-pku / libpku
+            microsoft / ai-edu（AI学习）
+            geekxh / hello-algorithm（算法学习）
+            injetlee / Python
+            datawhalechina / pumpkin-book（机器学习详解）
+            billryan / resume
+            yunjey / pytorch-tutorial
+            eesast / training2020
+            halfrost / LeetCode-Go
+            Snailclimb / JavaGuide（Java学习）
+            Baiyuetribe / paper2gui
+            github / explore
+            louisfb01 / best_AI_papers_2022
+            Sparky-Xia / THU-Mathematics-Books
+            deepseek-ai / DeepSeek-V3
+            yutiansut / QUANTAXIS
+            wilsonfreitas / awesome-quant（量化交易）
+            jh3y / jh3y
+            WaylonWalker / WaylonWalker
+            LLMQuant / quant-wiki
+            TianxingChen / Embodied-AI-Guide
+            0voice / Campus_recruitment_interview_questions（校招面试题）
+            wuye9036 / CppTemplateTutorial
+            0voice / Awesome-QuantDev-Learn
+            0voice / cpp_new_features
+            jobbole / awesome-cpp-cn
+            louis925 / kaggle-web-traffic-time-series-forecasting
+            vinhkhuc / kaggle-sentiment-popcorn（kaggle竞赛）
+            hlamba28 / UNET-TGS
+            svishnu88 / TGS-SaltNet
+            aditya1702 / Machine-Learning-and-Data-Science
+            Keiku / kaggle-airbnb-recruiting-new-user-bookings
+            minerva-ml / open-solution-toxic-comments
+            ternaus / kaggle_dstl_submission
+            ChenglongChen / tensorflow-XNN
+            bfortuner / pytorch-kaggle-starter
+            earhian / Humpback-Whale-Identification-1st-
+            agconti / kaggle-titanic
+            finlay-liu / kaggle_public
+            mratsim / Amazon-Forest-Computer-Vision
+            the-black-knight-01 / Data-Science-Competitions
+            sast-summer-training-2023 / sast-summer-training-2023.github.io
+            jsjby / jsjby_schoool_2024（夏令营）
+            CS-BAOYAN / BoardCaster
+            plouto-quants / FBDQA-2020S
+            hsliuping / TradingAgents-CN（基于多智能体LLM的中文金融交易框架）
+            eseckel / ai-for-grant-writing
+            vim / vim
+            peng-zhihui / XUAN（自动驾驶自行车）
+            svc-develop-team / so-vits-svc
+            ManimCommunity / manim
+            QSCTech / zju-icicles（浙江大学课程分享）
+            PKUFlyingPig / cs-self-learning（北京大学计算机学习指南）
+            psf / black
+            PKUanonym / REKCARC-TSC-UHT（清华大学计算机系课程攻略）
+            Jack-Cherish / PythonPark（Python 开源项目之自学编程之路）
+            Jack-Cherish / LeetCode（LeetCode、剑指Offer刷题笔记（C/C++、Python3实现））
+
+个人项目（一个技术难度高且完整的个人项目（GitHub上获得认可），其分量远超过一堆平庸的经历）
+    ​硬件安全 × AI系统​
+​        项目构思​：基于你关注的PCILeech DMA项目，开发AI驱动的硬件漏洞检测工具​
+        用YOLOv8（Ultralytics库）自动识别硬件漏洞特征
+        集成量化交易风控逻辑（参考51Quant）
+​        差异化亮点​：电气背景+AI+金融风控的交叉创新
+​        目标​：6个月达到500+ stars，申请GitHub加速计划
+    
+    电力系统 × 边缘计算​
+​​        项目构思​：利用STM32开发板（你关注的MaJerle代码库）构建电力设备故障预测终端​
+​        部署TinyML模型（TensorFlow Lite）实时诊断
+​        数据来自国家电网公开数据集
+​​        清华契合点​：计算机系刘云浩教授团队专注物联网安全
+
+    健身
+        体重100千克
+        胸围112厘米 腰围82厘米
+        臀围110厘米 大臂围40厘米
+        大腿围65厘米 卧推90千克 硬拉160千克
+        腿举250千克 肩推60千克
+        （2025年9月15日
+        2005年3月26日出生，性别男，
+        身高191厘米，体重93千克
+        胸围106.5厘米，腰围87厘米，臀围106厘米
+        臂展187厘米，臂长81厘米，大臂围38厘米，小臂围29厘米，肩宽50厘米
+        腿长87厘米（会阴）112厘米（肚脐、髋骨上沿），大腿围61厘米，小腿围41厘米
+        手长20厘米，手宽9厘米，腕围17厘米
+        脚长28厘米，脚宽10.5厘米，踝围24厘米
+        头围59厘米，头高24厘米，颈围37厘米）
+
+                        稳定高分，尝试科研结合，产出论文/项目，申请清华
+
+                        LeetCode
+                        刷题策略​：按题型分类刷题​（如数组、链表、树、动态规划），而非随机刷题
+                      “少而精”​​ 比盲目追求数量更有效
+                        第一遍：看题解，理解思路
+                        第二遍：独立实现
+                        第三遍：优化代码
+                        第四遍：一周后重做
+                        第五遍：面试前复习
+                        LeetCode题目数量庞大，新手容易陷入“刷题焦虑”
+                        可以优先选择经典高频题单，例如“Blind 75”或精选的300题清单，它们足以覆盖大多数核心考点
+        竞赛准备
+        刷Online Judge（如LeetCode, POJ, CF）​优先备战ACM-ICPC校内选拔/省赛
+        ​寻找队友​：ACM、数模、智能车等都是团队赛，尽快找到志同道合、能力互补的队友
+        特别是计算机或软件专业的同学
+
+    接触项目​
+        跟老师进入实验室，或自己动手做一些小项目（如用STM32做智能小车、用Python做数据分析）
+        为参加“电子设计”、“智能汽车”、“创新创业”类竞赛积累经验和素材
+
+    重点突破
+        在大二积累的基础上，​全力冲击高含金量的国赛和国际赛
+        如ACM-ICPC亚洲区、数模国赛、电子设计国赛、智能汽车国赛等
+        争取在大三下学期之前拿到至少一项国家级重要奖项，这是你参加夏令营和保研复试的关键材料
+
+    注意事项​
+        ​不要贪多，深入参加一两个核心竞赛并取得优异成绩，远比参加一堆但成绩平平更有用
+​        文档和展示​：对于数模、创新、创业类竞赛，成果报告、论文、答辩演示同样重要，要注重培养这方面的能力
+        ​关注清华要求​：随时关注清华大学计算机系官网的研究生招生信息，了解其最新的保研政策和夏令营通知，
+        确保你的竞赛成果在对方要求的截止日期前获得
+    效率提升
+        截止期最早最优先（EDF）​​：对于有明确截止时间的任务，如竞赛报名日期、考试日期
+        ​价值最高最优先（HVF）​​：对于高回报任务，如发表论文、获得竞赛奖项，这些对清华申请至关重要
+        空余时间最短最优先（LSF）​​：对于时间紧迫的任务

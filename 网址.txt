@@ -1,0 +1,20 @@
+Zotero, Mendeley
+https://www.zhihu.com/question/292241691
+https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf
+https://ieeexplore.ieee.org/document/1663532
+https://web.mit.edu/6.435/www/Valiant84.pdf
+https://ieeexplore.ieee.org/abstract/document/9357774
+https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012
+https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777
+https://dl.acm.org/doi/10.1145/3065386
+https://aclanthology.org/N19-1423/
+https://dl.acm.org/doi/10.1145/3422622
+https://courses.cs.umbc.edu/471/papers/turing.pdf
+https://zhuanlan.zhihu.com/p/1904190686628128128
+https://link.springer.com/article/10.1007/BF02478259
+https://www.dcs.gla.ac.uk/~pat/cpM/choco4/nqueens/Goto-Harmful-Dijkstra.pdf
+https://www.scs.stanford.edu/nyu/04fa/sched/readings/unix.pdf
+https://dl.acm.org/doi/pdf/10.1145/362384.362685
+https://web.eecs.umich.edu/~movaghar/cspbook.pdf
+https://dl.acm.org/doi/pdf/10.1145/359340.359342
+https://arxiv.org/pdf/1512.03385
